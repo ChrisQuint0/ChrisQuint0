@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Christopher A. Quinto, a front end developer. Feel free to explore some of the projects I’ve built. 🙂
+
 <!--
 **ChrisQuint0/ChrisQuint0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
