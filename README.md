@@ -40,7 +40,7 @@ laptops and tablets, streamline the administration of repairs, and facilitate ef
 processes. It aims to provide comprehensive oversight of all gadget-related operations, ensuring accurate
 record-keeping and smooth workflow for an organization's inventory
 
-<a href="misinvtrack.42web.io" target="_blank">Try MIS InvTrack's Demo →</a>
+<a href="https://misinvtrack.42web.io" target="_blank">Try MIS InvTrack's Demo →</a>
 
 </br>
 
@@ -49,4 +49,4 @@ record-keeping and smooth workflow for an organization's inventory
 
 TaskM is a simple, elegant task manager built with user authentication, a modern UI, AI-assisted task suggestions, and a connected database, all deployed and ready to use.
 
-<a href="task-m-three.vercel.app" target="_blank">Try TaskM's Demo →</a>
+<a href="https://task-m-three.vercel.app" target="_blank">Try TaskM's Demo →</a>
