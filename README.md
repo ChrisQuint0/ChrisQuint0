@@ -1,4 +1,4 @@
-## Hello there!
+## Hello there! 👋
 
 <p>I am Christopher A. Quinto, a front-end developer</p>
 <p>Feel free to explore some of the projects that I've built</p>
