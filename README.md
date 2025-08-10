@@ -8,26 +8,26 @@
 <h4>Languages and Frameworks</h4>
 
 <div style="display: flex;">
-    <img src="html.png" height="150px" />
-    <img src="css.png" height="150px" />
-    <img src="js.png" height="150px"/>
-    <img src="nextjs.png" height="150px"/>
-    <img src="php.png" height="150px"/>
+    <img src="html.png" height="100px" />
+    <img src="css.png" height="100px" />
+    <img src="js.png" height="100px"/>
+    <img src="nextjs.png" height="100px"/>
+    <img src="php.png" height="100px"/>
 </div>
 
 <h4>Styling and UI</h4>
 
 <div style="display: flex;">
-    <img src="tailwind.png" height="150px" />
-    <img src="shadcn.png" height="150px" />
+    <img src="tailwind.png" height="100px" />
+    <img src="shadcn.png" height="100px" />
 </div>
 
 <h4>APIs and Libraries</h4>
 
 <div style="display: flex;">
-    <img src="gemini.png" height="150px" />
-    <img src="framer.png" height="150px" />
-    <img src="supabase.png" height="150px" />
+    <img src="gemini.png" height="100px" />
+    <img src="framer.png" height="100px" />
+    <img src="supabase.png" height="100px" />
 </div>
 
 ## Projects
